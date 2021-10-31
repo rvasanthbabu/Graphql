@@ -1,7 +1,7 @@
 # Graphql
 
-### About The Project
-This project hilights how to use GraphQL with java.
+### About the project
+This project highlights how to use GraphQL with java.
 This project expose GraphQL endpoint covering the below 2 usecases
 * Filter data using graphQL from DB(H2 in this case)
 * Filter data from already exposed REST endpoint
