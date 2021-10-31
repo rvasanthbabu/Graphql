@@ -58,3 +58,4 @@ Request URL: POST http://localhost:8080/rest/books
    }
 }
 ```
+![Alt text](/img/GraphQL-Postman.png?raw=true "Sample Postman screen shot")
