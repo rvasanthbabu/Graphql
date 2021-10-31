@@ -50,7 +50,7 @@ Request URL: POST http://localhost:8080/graphql/users
 Request URL: POST http://localhost:8080/rest/books
 1. Query to fetch Book details from H2 DB based on ID 
 ```
-  {
+{
    book(id: "123") {
      title
      authors
