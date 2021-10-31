@@ -60,3 +60,7 @@ Request URL: POST http://localhost:8080/rest/books
 ```
 #### Sample postman screen shot
 ![Alt text](/img/GraphQL-Postman.png?raw=true "Sample Postman screen shot")
+
+### Useful links
+* [JSON to Java POJO Generator](https://www.jsonschema2pojo.org/)
+* [JSON to GraphQL Schema Generator](https://walmartlabs.github.io/json-to-simple-graphql-schema/)
